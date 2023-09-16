@@ -1,0 +1,7 @@
+npm init -y
+
+Typescript
+
+npm i -D typescript ts-node
+ npm i express cors body-parser compression cookie-parser
+npm i -D @types//express @types/cors @types/body-parser @types/compression @types/cookie-parser
